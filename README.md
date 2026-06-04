@@ -78,7 +78,9 @@ The journey is divided into structured phases covering all important DSA topics:
 * Heap/Priority Queue
 * Segment Trees
 * Advanced interview problems
-
+----------------------------------------------------------------
+Complete DSA plan:
+👉plan/plan.md
 ---
 
 # Repository Structure
