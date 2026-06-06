@@ -33,3 +33,12 @@
 
 ### 🔗 Solution
 [solutions/Day04.java]
+---
+
+## ✅ Day 05
+
+📌 **Problem:** LC 26 –  Remove Duplicated from sorted Array
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day05.java]
