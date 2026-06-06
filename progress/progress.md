@@ -14,3 +14,12 @@
 
 ### 🔗 Solution
 [solutions/Day02.java]
+
+---
+## ✅ Day 03
+
+📌 **Problem:** LC 771 – Jewels and Stones
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day03.java]
