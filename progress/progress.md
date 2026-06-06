@@ -23,3 +23,13 @@
 
 ### 🔗 Solution
 [solutions/Day03.java]
+
+---
+
+## ✅ Day 04
+
+📌 **Problem:** LC 35 –  Search Insert Position
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day04.java]
