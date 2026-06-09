@@ -43,3 +43,13 @@
 
 ### 🔗 Solution
 [solutions/Day05.java]
+
+---
+
+## ✅ Day 06
+
+📌 **Problem:** LC 26 –  Middle of the Linked List
+🧠 **Topic:** Linked List  
+
+### 🔗 Solution
+[solutions/Day06.java]
