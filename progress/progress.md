@@ -53,3 +53,13 @@
 
 ### 🔗 Solution
 [solutions/Day06.java]
+
+--
+
+## ✅ Day 07
+
+📌 **Problem:** LC 26 –  Remove Duplicated from Sorted list
+🧠 **Topic:** Linked List  
+
+### 🔗 Solution
+[solutions/Day07.java]
