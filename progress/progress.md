@@ -63,3 +63,13 @@
 
 ### 🔗 Solution
 [solutions/Day07.java]
+
+---
+
+## ✅ Day 203
+
+📌 **Problem:** LC 203 –   Remove Linked List Elements
+🧠 **Topic:** Linked List  
+
+### 🔗 Solution
+[solutions/Day08.java]
