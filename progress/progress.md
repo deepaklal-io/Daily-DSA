@@ -90,3 +90,13 @@
 
 [solutions/Day09.java]
 
+---
+
+
+📌 **Problem:** LC 206 –   Reverse Of the LinkedList
+🧠 **Topic:** Linked List  
+
+### 🔗 Solution
+
+[solutions/Day10.java]
+
