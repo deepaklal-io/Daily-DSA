@@ -4,6 +4,7 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
+
 [solutions/Day01.java]
 
 ---
@@ -22,6 +23,7 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
+
 [solutions/Day03.java]
 
 ---
@@ -32,6 +34,7 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
+
 [solutions/Day04.java]
 
 ---
@@ -42,6 +45,7 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
+
 [solutions/Day05.java]
 
 ---
@@ -52,6 +56,7 @@
 🧠 **Topic:** Linked List  
 
 ### 🔗 Solution
+
 [solutions/Day06.java]
 
 --
@@ -62,6 +67,7 @@
 🧠 **Topic:** Linked List  
 
 ### 🔗 Solution
+
 [solutions/Day07.java]
 
 ---
@@ -72,4 +78,15 @@
 🧠 **Topic:** Linked List  
 
 ### 🔗 Solution
+
 [solutions/Day08.java]
+
+---
+
+📌 **Problem:** LC 160 –   Intersection Of Two LinkedList
+🧠 **Topic:** Linked List  
+
+### 🔗 Solution
+
+[solutions/Day09.java]
+
