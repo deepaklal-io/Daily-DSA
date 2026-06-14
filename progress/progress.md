@@ -23,7 +23,6 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
-
 [solutions/Day03.java]
 
 ---
@@ -38,7 +37,6 @@
 [solutions/Day04.java]
 
 ---
-
 ## ✅ Day 05
 
 📌 **Problem:** LC 26 –  Remove Duplicated from sorted Array
@@ -49,18 +47,15 @@
 [solutions/Day05.java]
 
 ---
-
 ## ✅ Day 06
 
 📌 **Problem:** LC 26 –  Middle of the Linked List
 🧠 **Topic:** Linked List  
 
 ### 🔗 Solution
-
 [solutions/Day06.java]
 
---
-
+---
 ## ✅ Day 07
 
 📌 **Problem:** LC 26 –  Remove Duplicated from Sorted list
@@ -82,21 +77,26 @@
 [solutions/Day08.java]
 
 ---
-
+## ✅ Day 09
 📌 **Problem:** LC 160 –   Intersection Of Two LinkedList
 🧠 **Topic:** Linked List  
 
 ### 🔗 Solution
-
 [solutions/Day09.java]
 
 ---
-
-
+## Day 10
 📌 **Problem:** LC 206 –   Reverse Of the LinkedList
 🧠 **Topic:** Linked List  
 
 ### 🔗 Solution
-
 [solutions/Day10.java]
+
+---
+## Day 11
+📌 **Problem:** LC 141 –   LinkedList cycle
+🧠 **Topic:** Linked List  
+
+### 🔗 Solution
+[solutions/Day11.java]
 
