@@ -98,5 +98,13 @@
 🧠 **Topic:** Linked List  
 
 ### 🔗 Solution
-[solutions/Day11.java
+[solutions/Day11.java]
 
+
+---
+## ✅ Day 12
+📌 **Problem:** LC 141 –   Palindrom LinkedList 
+🧠 **Topic:** Linked List  
+
+### 🔗 Solution
+[solutions/Day12.java]
