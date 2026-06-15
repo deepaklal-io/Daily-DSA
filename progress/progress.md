@@ -85,7 +85,7 @@
 [solutions/Day09.java]
 
 ---
-## Day 10
+## ✅ Day 10
 📌 **Problem:** LC 206 –   Reverse Of the LinkedList
 🧠 **Topic:** Linked List  
 
@@ -93,7 +93,7 @@
 [solutions/Day10.java]
 
 ---
-## Day 11
+## ✅ Day 11
 📌 **Problem:** LC 141 –   LinkedList cycle
 🧠 **Topic:** Linked List  
 
