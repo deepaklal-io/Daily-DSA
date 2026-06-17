@@ -116,3 +116,12 @@
 
 ### 🔗 Solution
 [solutions/Day13.java]
+
+
+---
+## ✅ Day 14
+📌 **Problem:** LC 1672 – Richest Customer Wealth 
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day14.java]
