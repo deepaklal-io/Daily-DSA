@@ -125,3 +125,12 @@
 
 ### 🔗 Solution
 [solutions/Day14.java]
+
+
+---
+## ✅ Day 15
+📌 **Problem:** LC 1470- Shuffle the Array
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day15.java]
