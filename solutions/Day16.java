@@ -1,4 +1,4 @@
-class Solution {
+class Day16 {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int greatest=0;
         
