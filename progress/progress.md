@@ -134,3 +134,12 @@
 
 ### 🔗 Solution
 [solutions/Day15.java]
+
+
+---
+## ✅ Day 16
+📌 **Problem:** LC 1431 – Kids With the Greatest Number of Candies
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day16.java]
