@@ -12,6 +12,4 @@ public class Day18 {
         }
         return result;
     }
-} {
-    
-}
+} 
