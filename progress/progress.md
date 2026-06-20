@@ -143,3 +143,12 @@
 
 ### 🔗 Solution
 [solutions/Day16.java]
+
+
+---
+## ✅ Day 17
+📌 **Problem:** LC 1512 – Number of Good Pairs
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day16.java]
