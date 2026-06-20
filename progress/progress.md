@@ -151,4 +151,13 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
-[solutions/Day16.java]
+[solutions/Day17.java]
+
+
+---
+## ✅ Day 18
+📌 **Problem:** LC 1365 – How Many Numbers Are Smaller Than the Current Number
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day18.java]
