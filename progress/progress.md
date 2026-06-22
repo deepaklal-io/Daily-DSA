@@ -161,3 +161,11 @@
 
 ### 🔗 Solution
 [solutions/Day18.java]
+
+---
+## ✅ Day 19
+📌 **Problem:** LC 1832 – Check if the Sentence Is Pangram
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day19.java]
