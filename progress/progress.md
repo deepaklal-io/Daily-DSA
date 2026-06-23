@@ -169,3 +169,12 @@
 
 ### 🔗 Solution
 [solutions/Day19.java]
+
+
+---
+## ✅ Day 20
+📌 **Problem:** LC 1732 – Find the Highest Altitude
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day20.java]
