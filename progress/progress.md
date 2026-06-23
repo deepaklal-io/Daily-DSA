@@ -178,3 +178,12 @@
 
 ### 🔗 Solution
 [solutions/Day20.java]
+
+
+---
+## ✅ Day 21
+📌 **Problem:** LC 1295 – Find Numbers with Even Number of Digits
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day20.java]
