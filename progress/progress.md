@@ -186,4 +186,13 @@
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
-[solutions/Day20.java]
+[solutions/Day21.java]
+
+
+---
+## ✅ Day 22
+📌 **Problem:** LC 867 – Transpose Matrix
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day22.java]
