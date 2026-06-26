@@ -196,3 +196,12 @@
 
 ### 🔗 Solution
 [solutions/Day22.java]
+
+
+---
+## ✅ Day 23
+📌 **Problem:** LC 169 – Majority Element
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day23.java]
