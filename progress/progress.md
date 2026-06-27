@@ -205,3 +205,12 @@
 
 ### 🔗 Solution
 [solutions/Day23.java]
+
+
+---
+## ✅ Day 24
+📌 **Problem:** LC 283 – Move Zeroes
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day24.java]
