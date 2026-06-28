@@ -214,3 +214,12 @@
 
 ### 🔗 Solution
 [solutions/Day24.java]
+
+
+---
+## ✅ Day 25
+📌 **Problem:** LC 66 – Plus One
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day25.java]
