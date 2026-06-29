@@ -217,9 +217,9 @@
 
 
 ---
-## ✅ Day 25
-📌 **Problem:** LC 66 – Plus One
+## ✅ Day 26
+📌 **Problem:** LC 34 – Find First and Last Position of Element in Sorted Array
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
-[solutions/Day25.java]
+[solutions/Day26.java]
