@@ -223,3 +223,12 @@
 
 ### 🔗 Solution
 [solutions/Day26.java]
+
+
+---
+## ✅ Day 27
+📌 **Problem:** LC 1346 – Check If N and Its Double Exist
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day27.java]
