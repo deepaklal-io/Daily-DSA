@@ -232,3 +232,12 @@
 
 ### 🔗 Solution
 [solutions/Day27.java]
+
+
+---
+## ✅ Day 28
+📌 **Problem:** LC 217 – Contains Duplicate
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day28.java]
