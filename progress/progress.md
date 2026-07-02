@@ -241,3 +241,12 @@
 
 ### 🔗 Solution
 [solutions/Day28.java]
+
+
+---
+## ✅ Day 29
+📌 **Problem:** LC 977 – Squares of a Sorted Array
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day29.java]
