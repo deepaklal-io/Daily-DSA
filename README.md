@@ -153,7 +153,7 @@ BS Computer  — Sukkur IBA University
 🔗 LinkedIn: https://www.linkedin.com/in/deepak-lal-22848724a/
 
 
-🗂️ GitHub: https://github.com/deepaklal009
+🗂️ GitHub: https://github.com/deepaklal-io
 
 ---
 
