@@ -250,3 +250,12 @@
 
 ### 🔗 Solution
 [solutions/Day29.java]
+
+
+---
+## ✅ Day 30
+📌 **Problem:** LC 383 – Ransom Note
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day30.java]
