@@ -259,3 +259,12 @@
 
 ### 🔗 Solution
 [solutions/Day30.java]
+
+
+---
+## ✅ Day 31
+📌 **Problem:** LC 121 – Best Time to Buy and Sell Stock
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day31.java]
