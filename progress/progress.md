@@ -268,3 +268,12 @@
 
 ### 🔗 Solution
 [solutions/Day31.java]
+
+
+---
+## ✅ Day 32
+📌 **Problem:** LC 628 – Maximum Product of Three Numbers
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day32.java]
