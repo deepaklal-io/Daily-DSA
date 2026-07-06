@@ -277,3 +277,12 @@
 
 ### 🔗 Solution
 [solutions/Day32.java]
+
+
+---
+## ✅ Day 33
+📌 **Problem:** LC 724 – Find Pivot Index
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day33.java]
