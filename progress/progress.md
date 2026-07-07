@@ -286,3 +286,12 @@
 
 ### 🔗 Solution
 [solutions/Day33.java]
+
+
+---
+## ✅ Day 34
+📌 **Problem:** LC 152 – Maximum Product Subarray
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day34.java]
