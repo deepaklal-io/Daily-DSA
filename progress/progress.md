@@ -295,3 +295,12 @@
 
 ### 🔗 Solution
 [solutions/Day34.java]
+
+
+---
+## ✅ Day 35
+📌 **Problem:** LC 1252 – Cells with Odd Values in a Matrix
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day35.java]
