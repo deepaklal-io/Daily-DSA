@@ -304,3 +304,13 @@
 
 ### 🔗 Solution
 [solutions/Day35.java]
+
+
+---
+## ✅ Day 36
+📌 **Problem:** LC 238 – Product of Array Except Self
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day36.java]
+
