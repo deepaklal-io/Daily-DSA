@@ -314,3 +314,12 @@
 ### 🔗 Solution
 [solutions/Day36.java]
 
+
+---
+## ✅ Day 37
+📌 **Problem:** LC 55 – Jump Game
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day37.java]
+

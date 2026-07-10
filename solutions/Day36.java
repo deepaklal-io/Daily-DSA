@@ -1,4 +1,4 @@
-class Solution {
+class  Day36{
     public int[] productExceptSelf(int[] nums) {
         int[] answer=new int[nums.length];
         answer[0]=1;
