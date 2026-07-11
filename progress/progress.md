@@ -323,3 +323,12 @@
 ### 🔗 Solution
 [solutions/Day37.java]
 
+
+---
+## ✅ Day 38
+📌 **Problem:** LC 59 – Spiral Matrix II
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day38.java]
+
