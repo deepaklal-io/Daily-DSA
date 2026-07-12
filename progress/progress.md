@@ -332,3 +332,12 @@
 ### 🔗 Solution
 [solutions/Day38.java]
 
+
+---
+## ✅ Day 39
+📌 **Problem:** LC 349 – Intersection of Two Arrays
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day39.java]
+
