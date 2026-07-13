@@ -341,3 +341,12 @@
 ### 🔗 Solution
 [solutions/Day39.java]
 
+
+---
+## ✅ Day 40
+📌 **Problem:** LC 75 – Sort Colors
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day40.java]
+
