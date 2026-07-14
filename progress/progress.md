@@ -350,3 +350,15 @@
 ### 🔗 Solution
 [solutions/Day40.java]
 
+
+---
+## ✅ Day 41
+📌 **Problem:** LC 198 – House Robber
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day41.java]
+
+
+
+
