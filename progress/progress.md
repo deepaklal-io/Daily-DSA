@@ -360,5 +360,15 @@
 [solutions/Day41.java]
 
 
+---
+## ✅ Day 42
+📌 **Problem:** LC 48 – Rotate Image
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day42.java]
+
+
+
 
 
