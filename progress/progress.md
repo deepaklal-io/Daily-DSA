@@ -378,6 +378,15 @@
 [solutions/Day43.java]
 
 
+---
+## ✅ Day 44
+📌 **Problem:** LC 1572 – Matrix Diagonal Sum
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day44.java]
+
+
 
 
 
