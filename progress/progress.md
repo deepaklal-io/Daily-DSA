@@ -387,6 +387,23 @@
 [solutions/Day44.java]
 
 
+---
+## ✅ Day 45
+📌 **Problem:** LC 215 – Kth Largest Element in an Array
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day45.java]
+
+
+---
+## ✅ Day 46
+📌 **Problem:** LC 704 – Binary Search
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day46.java]
+
 
 
 
