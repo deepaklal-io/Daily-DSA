@@ -405,5 +405,14 @@
 [solutions/Day46.java]
 
 
+---
+## ✅ Day 47
+📌 **Problem:** LC 162 – Find Peak Element
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day47.java]
+
+
 
 
