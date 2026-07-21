@@ -414,5 +414,14 @@
 [solutions/Day47.java]
 
 
+---
+## ✅ Day 48
+📌 **Problem:** LC 4 – Median of Two Sorted Arrays
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day48.java]
+
+
 
 
