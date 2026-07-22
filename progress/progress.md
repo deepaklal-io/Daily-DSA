@@ -423,5 +423,14 @@
 [solutions/Day48.java]
 
 
+---
+## ✅ Day 49
+📌 **Problem:** LC 19 – Remove Nth Node From End of List
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day49.java]
+
+
 
 
