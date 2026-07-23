@@ -435,7 +435,7 @@
 ---
 ## ✅ Day 50
 📌 **Problem:** LC 74 – Search a 2D Matrix
-🧠 **Topic:** LinkedList  
+🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
 [solutions/Day50.java]
