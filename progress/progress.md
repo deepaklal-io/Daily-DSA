@@ -426,10 +426,19 @@
 ---
 ## ✅ Day 49
 📌 **Problem:** LC 19 – Remove Nth Node From End of List
-🧠 **Topic:** Arrays  
+🧠 **Topic:** LinkedList  
 
 ### 🔗 Solution
 [solutions/Day49.java]
+
+
+---
+## ✅ Day 50
+📌 **Problem:** LC 74 – Search a 2D Matrix
+🧠 **Topic:** LinkedList  
+
+### 🔗 Solution
+[solutions/Day50.java]
 
 
 
