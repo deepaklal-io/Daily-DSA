@@ -441,5 +441,14 @@
 [solutions/Day50.java]
 
 
+---
+## ✅ Day 51
+📌 **Problem:** LC 24 – Swap Nodes in Pairs
+🧠 **Topic:** Linkedlist  
+
+### 🔗 Solution
+[solutions/Day51.java]
+
+
 
 
