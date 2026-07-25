@@ -450,5 +450,13 @@
 [solutions/Day51.java]
 
 
+---
+## ✅ Day 52
+📌 **Problem:** LC 912 – Sort an Array
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day52.java]
+
 
 
