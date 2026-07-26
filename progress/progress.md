@@ -459,4 +459,14 @@
 [solutions/Day52.java]
 
 
+---
+## ✅ Day 53
+📌 **Problem:** LC 167 – Two Sum II – Input Array Is Sorted
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day53.java]
+
+
+
 
