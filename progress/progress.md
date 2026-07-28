@@ -477,5 +477,14 @@
 [solutions/Day54.java]
 
 
+---
+## ✅ Day 55
+📌 **Problem:** LC 231 – Power of Two
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day55.java]
+
+
 
 
