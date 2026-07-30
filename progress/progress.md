@@ -495,4 +495,13 @@
 [solutions/Day56.java]
 
 
+---
+## ✅ Day 57
+📌 **Problem:** LC 326 – Power of Three
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day57.java]
+
+
 
