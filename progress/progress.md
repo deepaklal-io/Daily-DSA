@@ -497,11 +497,20 @@
 
 ---
 ## ✅ Day 57
-📌 **Problem:** LC 326 – Power of Three
+📌 **Problem:** LC 240 – Search a 2D Matrix I
 🧠 **Topic:** Arrays  
 
 ### 🔗 Solution
 [solutions/Day57.java]
+
+
+---
+## ✅ Day 58
+📌 **Problem:** LC 342 – Power of Four
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day58.java]
 
 
 
