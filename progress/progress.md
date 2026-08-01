@@ -513,4 +513,13 @@
 [solutions/Day58.java]
 
 
+---
+## ✅ Day 59
+📌 **Problem:** LC 844 – Backspace String Compare
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day59.java]
+
+
 
