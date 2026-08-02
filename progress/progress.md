@@ -522,4 +522,13 @@
 [solutions/Day59.java]
 
 
+---
+## ✅ Day 60
+📌 **Problem:** LC 1721 – Swapping Nodes in a Linked List
+🧠 **Topic:** LinkedList  
+
+### 🔗 Solution
+[solutions/Day60.java]
+
+
 
