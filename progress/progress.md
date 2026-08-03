@@ -531,4 +531,12 @@
 [solutions/Day60.java]
 
 
+---
+## ✅ Day 61
+📌 **Problem:** LC 1137 – N-th Tribonacci Number
+🧠 **Topic:** Arrays  
+
+### 🔗 Solution
+[solutions/Day61.java]
+
 
